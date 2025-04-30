@@ -1,0 +1,14 @@
+﻿  Ball.cpp
+C:\Users\Alumnos\Desktop\Pachinco\Ball.cpp(4,1): warning C4005: 'RADIOY': redefinición de macro
+C:\Users\Alumnos\Desktop\Pachinco\Circulo.h(4,1): message : vea la definición anterior de 'RADIOY'
+C:\Users\Alumnos\Desktop\Pachinco\Ball.cpp(30,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alumnos\Desktop\Pachinco\Ball.cpp(31,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alumnos\Desktop\Pachinco\Ball.cpp(91,44): error C2059: error de sintaxis: ')'
+  Circulo.cpp
+C:\Users\Alumnos\Desktop\Pachinco\Circulo.cpp(16,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alumnos\Desktop\Pachinco\Circulo.cpp(17,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Alumnos\Desktop\Pachinco\Circulo.cpp(18,1): warning C4005: 'RADIOY': redefinición de macro
+C:\Users\Alumnos\Desktop\Pachinco\Circulo.h(4,1): message : vea la definición anterior de 'RADIOY'
+  Pachinco.cpp
+C:\Users\Alumnos\Desktop\Pachinco\Pachinco.cpp(70,21): warning C4101: 'cualquier': variable local sin referencia
+  Generando código...
